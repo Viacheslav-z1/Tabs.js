@@ -1,0 +1,17 @@
+.tabcontainer{
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 1000px;
+}
+.tabcontent__descr{
+  max-width: 600px;
+}
+.tabheader__items{
+  display: flex;
+  flex-direction: column;
+}
+.tabheader__item{
+  width: 150px;
+  margin: 2px 0;
+  cursor: pointer;
+}
